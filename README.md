@@ -11,7 +11,7 @@
 
 - 🔭 Currently building operational AI systems and a few other things at **[Moreno Labs](https://morenolabs.io)**
 - 💬 Ask me about AI in hospitality, operational intelligence, and building with LLMs
-- 📫 Reach me at **hello@morenolabs.com**
+- 📫 Reach me at **hello@morenolabs.io**
 
 ### 🔗 Connect
 
