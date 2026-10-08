@@ -29,9 +29,9 @@
 
 <div align="center">
 
-#### 🛫 HOLD SHORT
+#### 🛫 Deep Sim – Digital Twin Experiment
 
-**An airport tower and operations simulator with a neural-voice radio.**<br/>
+**HOLD SHORT: an airport tower and operations simulator with a neural-voice radio.**<br/>
 Every aircraft needs your word to land, cross a runway, push back and take off.
 
 <img src="assets/hold-short.png" alt="HOLD SHORT: the ops desk during a thunderstorm, with strip bay, airport map, approach radar, action queue and radio transcript" width="900" />
