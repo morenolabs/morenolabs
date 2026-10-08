@@ -36,6 +36,17 @@ Every aircraft needs your word to land, cross a runway, push back and take off.
 
 <img src="assets/hold-short.png" alt="HOLD SHORT: the ops desk during a thunderstorm, with strip bay, airport map, approach radar, action queue and radio transcript" width="900" />
 
+<table>
+  <tr>
+    <td width="50%"><img src="assets/hold-short-rheinhafen.png" alt="Rheinhafen International: four runways, cargo city and a rolling-long pilot error in the action queue" /></td>
+    <td width="50%"><img src="assets/hold-short-tower-view.png" alt="The 3D tower view at dusk: floodlit apron, taxiway centreline lights and the approach lights" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Rheinhafen International: a four-runway hub</sub></td>
+    <td align="center"><sub>3D tower view at dusk</sub></td>
+  </tr>
+</table>
+
 </div>
 
 More than directing traffic, the whole airport runs as a living system:
