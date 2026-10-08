@@ -36,6 +36,19 @@ Every aircraft needs your word to land, cross a runway, push back and take off.
 
 <img src="assets/hold-short.png" alt="HOLD SHORT: the ops desk during a thunderstorm, with strip bay, airport map, approach radar, action queue and radio transcript" width="900" />
 
+</div>
+
+More than directing traffic, the whole airport runs as a living system:
+
+- 🌩️ **Weather is a forecast, not a given:** storm cells and wind shifts drift off the forecast, so planning ahead is a judgement call
+- 🔁 **Airline network:** every tail flies rotations through the day, so a late inbound becomes a late departure; crew hours run out and the airline phones you
+- 🧑‍✈️ **Crews with character and pilot errors:** missed exits, wrong turns, stop-bar busts, wrong readbacks, from sharp to sloppy crews
+- 🚨 **Disruptions:** MAYDAY, bird strikes, burst tyres, ILS outages, lost radio contact, runway changes agreed on the landline
+- 🎙️ **Neural-voice radio:** 20 voices, blocked transmissions, squelch and static, with voice input that runs locally
+- 🧪 **Deterministic:** the same seed and inputs replay a shift bit for bit, with an AI par run to benchmark you
+
+<div align="center">
+
 #### 👉 [Join the closed beta at holdshort.io](https://holdshort.io)
 
 </div>
