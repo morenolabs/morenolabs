@@ -29,9 +29,9 @@
 
 <div align="center">
 
-#### 🛫 Deep Sim
+#### 🛫 HOLD SHORT – Tower & Airport Simulator
 
-**A deep-system digital twin experiment.**<br/>
+**Deep Sim – Digital Twin Experiment**<br/>
 Every aircraft needs your word to land, cross a runway, push back and take off.
 
 <img src="assets/hold-short.png" alt="HOLD SHORT: the ops desk during a thunderstorm, with strip bay, airport map, approach radar, action queue and radio transcript" width="900" />
